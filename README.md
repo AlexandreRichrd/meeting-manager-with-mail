@@ -24,7 +24,7 @@ Un agent intelligent capable de :
 ### 1. Cloner le projet et créer un environnement virtuel
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/AlexandreRichrd/meeting-manager-with-mail.git
 cd mail-calendar
 python -m venv venv
 source venv/bin/activate
